@@ -1,0 +1,2 @@
+# Arboles-Paginados-C-
+Este fue un trabajo de una de las materias de Estructuras de datos  que lleve en CUCEI, funciona mediante archivos .txt, y similar a la tecnica de indices simples, donde por medio de los indices es mucho más rapido realizar cualquier operación CRUD, con esta tecnica optimizamos los tiempos de ejecucion por que nos apoyaremos de un ARBOL AVL, ahi mismo en el archivo tengo el codigo de indices simples con listas
